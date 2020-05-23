@@ -1,0 +1,61 @@
+﻿  MenuState.cpp
+c:\users\kristian\source\repos\lbe_dhm_combatsimulator\lbe_dhm_combatsimulator\menustate.cpp(53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\kristian\source\repos\lbe_dhm_combatsimulator\lbe_dhm_combatsimulator\menustate.cpp(83): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\kristian\source\repos\lbe_dhm_combatsimulator\lbe_dhm_combatsimulator\menustate.cpp(94): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\kristian\source\repos\lbe_dhm_combatsimulator\lbe_dhm_combatsimulator\menustate.cpp(104): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\kristian\source\repos\lbe_dhm_combatsimulator\lbe_dhm_combatsimulator\menustate.cpp(114): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\kristian\source\repos\lbe_dhm_combatsimulator\lbe_dhm_combatsimulator\menustate.cpp(118): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\kristian\source\repos\lbe_dhm_combatsimulator\lbe_dhm_combatsimulator\menustate.cpp(125): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'x86'

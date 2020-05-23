@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\kristian\source\repos\lbe_dhm_combatsimulator\lbe_dhm_combatsimulator\source.cpp(116): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\kristian\source\repos\lbe_dhm_combatsimulator\lbe_dhm_combatsimulator\source.cpp(119): warning C4244: 'argument': conversion from 'const T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\kristian\source\repos\lbe_dhm_combatsimulator\lbe_dhm_combatsimulator\source.cpp(196): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\kristian\source\repos\lbe_dhm_combatsimulator\lbe_dhm_combatsimulator\source.cpp(529): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  LBE_DHM_CombatSimulator.vcxproj -> C:\Users\Kristian\source\repos\LBE_DHM_CombatSimulator\x64\Debug\LBE_DHM_CombatSimulator.exe
